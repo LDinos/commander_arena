@@ -29,6 +29,7 @@
 vsp = 0
 jumping = false
 jumpingstarted = false
+//
 </string>
           </argument>
         </arguments>
