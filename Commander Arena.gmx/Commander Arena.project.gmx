@@ -6,13 +6,26 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
+<<<<<<< HEAD
     <sprite>sprites\sprite0</sprite>
+=======
+    <sprite>sprites\spr_floor</sprite>
+>>>>>>> e22ca2fb3504881b279dc140ebee1e252560ff4a
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
+<<<<<<< HEAD
     <object>objects\Stick_Figure_</object>
   </objects>
+=======
+    <object>objects\obj_floor</object>
+    <object>objects\obj_stick</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\room0</room>
+  </rooms>
+>>>>>>> e22ca2fb3504881b279dc140ebee1e252560ff4a
   <help>
     <rtf>help.rtf</rtf>
   </help>
