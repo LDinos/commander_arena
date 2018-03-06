@@ -13,7 +13,6 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\Stick_Figure_</object>
-  </objects>
     <object>objects\obj_floor</object>
     <object>objects\obj_stick</object>
   </objects>
