@@ -12,6 +12,7 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_floor</object>
+    <object>objects\obj_stick</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
